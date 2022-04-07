@@ -1,0 +1,10 @@
+.carousel-item{
+    height: 100%;
+    width: 100%;
+    background-color: rgba(126, 82, 82, 0.3);
+}
+
+img{
+    height: 92vh;
+    background-color: rgba(126, 82, 82, 0.3);
+}
